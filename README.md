@@ -57,7 +57,7 @@ bazi-skills/
 
 本仓库知识体系蒸馏自：
 
-**玄墨师傅** — Bilibili UID [3546748700068225](https://space.bilibili.com/3546748700068225)
+**玄墨师傅** — Bilibili UID [3546748700068225](https://space.bilibili.com/3546748700068225)(截至至4/18/2026)
 
 详细来源说明与署名要求见 [`ATTRIBUTION.md`](./ATTRIBUTION.md)。
 

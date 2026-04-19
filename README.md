@@ -61,6 +61,8 @@ bazi-skills/
 **玄墨师傅** — Bilibili UID [3546748700068225](https://space.bilibili.com/3546748700068225)
 **梓木师傅** — Bilibili UID [3690978638563817](https://space.bilibili.com/3690978638563817)
 **林泽易学** — Bilibili UID [3546375170034019](https://space.bilibili.com/3546375170034019)
+**易萃国学** — Bilibili UID [1286509326](https://space.bilibili.com/1286509326)
+**诸葛明椿煜冠** — Bilibili UID [1810719419](https://space.bilibili.com/1810719419)
 
 详细来源说明与署名要求见 [`ATTRIBUTION.md`](./ATTRIBUTION.md)。
 
